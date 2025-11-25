@@ -1,3 +1,3 @@
 
-"# this is a test text"
-"# This is the 3rd testing message"
+this is a test text
+This is the 3rd testing message
