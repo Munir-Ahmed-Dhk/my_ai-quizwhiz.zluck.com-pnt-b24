@@ -1,1 +1,1 @@
-"# good morning test"
+"# Finally got git poll scm working"
